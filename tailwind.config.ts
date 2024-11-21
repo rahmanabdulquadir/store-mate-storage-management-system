@@ -10,6 +10,11 @@ export default {
   theme: {
     extend: {
       colors: {
+        brand: {
+  				'100': '#424874',
+  				DEFAULT: '#F4EEFF'
+  			},
+        purple: '#A6B1E1',
         background: "var(--background)",
         foreground: "var(--foreground)",
       },

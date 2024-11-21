@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div className="center">
+    <div className="h-screen bg-brand">
       <h1>Hello from store mate</h1>
     </div>
   );
