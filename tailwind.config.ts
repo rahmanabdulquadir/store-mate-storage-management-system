@@ -22,3 +22,9 @@ export default {
   },
   plugins: [tailwindcssAnimate],
 } satisfies Config;
+
+
+// #F4EEFF
+// #DCD6F7
+// #A6B1E1
+// #424874
